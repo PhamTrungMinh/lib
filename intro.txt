@@ -1,0 +1,3 @@
+- Chào mừng mọi người đến với Thư viện Online! Đây là phần mềm Thư viện Online do nhóm 14 phát triển, với mong muốn mọi người ngày càng tiếp cận nhiều với sách hơn, dù là đọc với mục đích học tập hay đọc sách để giải trí.
+- Do sản phẩm vẫn đang trong quá trình thử nghiệm nên vẫn còn nhiều thiếu sót, mong mọi người dùng thông cảm và đóng góp ý kiến để chúng tôi ngày càng hoàn thiện phần mềm hơn.
+- Cảm ơn mọi người đã tin tưởng và sử dụng!
